@@ -45,20 +45,6 @@ export const Header = () => {
               Login
             </Link>
           </SignedOut>
-
-          <Link
-            href="https://github.com/sanidhyy/evently"
-            target="_blank"
-            rel="noreferrer noopener"
-            title="Source Code"
-          >
-            <Image
-              src="/assets/images/github.svg"
-              alt="github"
-              height={25}
-              width={25}
-            />
-          </Link>
         </div>
       </div>
     </header>
