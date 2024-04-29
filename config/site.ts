@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "Evently",
-  description: "Evently is a platform for event management.",
+  title: "EventUs",
+  description: "EventUs is a platform for event management.",
   keywords: [
     "reactjs",
     "nextjs",

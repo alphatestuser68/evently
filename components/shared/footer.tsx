@@ -8,15 +8,15 @@ export const Footer = () => {
       <div className="flex-center wrapper flex-between flex flex-col gap-4 p-5 text-center sm:flex-row">
         <Link href="/">
           <Image
-            src="/assets/images/logo.svg"
-            alt="Evently logo"
+            src="/assets/images/logo.jpg"
+            alt="EventUs logo"
             width={128}
             height={38}
           />
         </Link>
 
         <p className="flex items-center justify-center gap-x-1">
-          <Copyright className="h-4 w-4" /> {new Date().getFullYear()} Evently.
+          <Copyright className="h-4 w-4" /> {new Date().getFullYear()} EventUs.
           All rights reserved.
         </p>
       </div>
